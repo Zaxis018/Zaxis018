@@ -21,6 +21,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaxis018&" alt="zaxis018" /></p>
 
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=zaxis018&theme=github)
-
 
