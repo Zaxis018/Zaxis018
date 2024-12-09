@@ -20,3 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaxis018&show_icons=true&locale=en" alt="zaxis018" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaxis018&" alt="zaxis018" /></p>
+
+[![Kshitiz's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=zaxis018&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
